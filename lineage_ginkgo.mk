@@ -19,9 +19,6 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 # Bootanimation Res
 TARGET_BOOT_ANIMATION_RES := 1080
 
-# EPPE
-TARGET_DISABLE_EPPE := true
-
 # Blur effect
 TARGET_ENABLE_BLUR := false
 
